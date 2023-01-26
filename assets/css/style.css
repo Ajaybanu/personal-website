@@ -222,12 +222,12 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
-  height: 100vh;
-  background: url("../img/code.jpg") top center;
-  background-size: cover contain;
+  width: 100vw;
+  height: 150vh;
+  background: url("../img/code10.jpg") top center;
+  background-size:  contain;
   background-repeat: no-repeat;
-  background-position: 75%;
+   background-position: 100%;
   filter:opacity();
   
 }
